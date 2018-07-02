@@ -1,4 +1,4 @@
-# ngx-slick
+# ngx-slick   [temp fix for ERROR : Cannot read property 'slick' of undefined · Issue 6]
 
 [Example](https://embed.plnkr.co/fblxzfPneL66950A4VDM/)
 
